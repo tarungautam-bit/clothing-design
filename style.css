@@ -358,6 +358,12 @@ body{
     background:#EFE8E0;
 
     border-radius:30px;
+    box-shadow: 
+        0 4px 10px rgba(0,0,0,0.08),
+        0 1px 3px rgba(0,0,0,0.05);
+
+    transform: translateY(-2px);
+
 }
 
 .strip-item{
